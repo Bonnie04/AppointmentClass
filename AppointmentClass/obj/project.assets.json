@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/nuria/.nuget/packages/": {}
+    "/Users/M.Y./.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nuria/Desktop/AppointmentClass/AppointmentClass/AppointmentClass.csproj",
+      "projectUniqueName": "/Users/M.Y./Desktop/AppointmentClass/AppointmentClass/AppointmentClass.csproj",
       "projectName": "AppointmentClass",
-      "projectPath": "/Users/nuria/Desktop/AppointmentClass/AppointmentClass/AppointmentClass.csproj",
-      "packagesPath": "/Users/nuria/.nuget/packages/",
-      "outputPath": "/Users/nuria/Desktop/AppointmentClass/AppointmentClass/obj/",
+      "projectPath": "/Users/M.Y./Desktop/AppointmentClass/AppointmentClass/AppointmentClass.csproj",
+      "packagesPath": "/Users/M.Y./.nuget/packages/",
+      "outputPath": "/Users/M.Y./Desktop/AppointmentClass/AppointmentClass/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nuria/.nuget/NuGet/NuGet.Config"
+        "/Users/M.Y./.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
